@@ -45,9 +45,9 @@ python app.py
 ### localhost:5000 
 ### Wep  Camera and İmage  Person detection
 <div align="center">
-    
+    <a>  
         <img src="./static/Capture.PNG" width="59%"/>
-
+</a>
 </div>
 
 
