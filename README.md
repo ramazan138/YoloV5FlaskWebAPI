@@ -37,7 +37,7 @@ app.py dosyasını çalıştırın.
 
 
 
-On Tello Camera:
+On Browser :
 ``` shell
 python app.py 
 ```
