@@ -9,6 +9,9 @@ Yolov5 Tutorial - [YOLOv5](https://arxiv.org/abs/2207.02696)
 Flask Tutorial - [Flask](https://flask.palletsprojects.com/en/2.2.x/)
 
 Download - [YoloV5FlaskAPI](https://github.com/ramazan138/YoloV5FlaskWebAPI.git)
+
+
+ PyTorch Tutorial : [PyTorch ](https://pytorch.org/)
 ## Başlamak için Lütfen Okuyun !
 
 
