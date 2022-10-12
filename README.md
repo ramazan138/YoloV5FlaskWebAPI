@@ -17,8 +17,8 @@ Download - [YoloV5FlaskAPI](https://github.com/ramazan138/YoloV5FlaskWebAPI.git)
 
     
 ``` shell
-Gerekli kütüphaneleri destekleyen bir Nvidia ekran kartına sahipseniz otomatik GPU üzerinde çalışacaktır ,aksi durumunda CPU'da yürütülecektir 
-App.py dosyasını çalıştırın
+Gerekli kütüphaneleri destekleyen bir Nvidia ekran kartına sahipseniz otomatik GPU üzerinde çalışacaktır ,aksi durumunda CPU da yürütülecektir 
+app.py dosyasını çalıştırın.
 
 
 
@@ -39,6 +39,8 @@ On Tello Camera:
 python app.py 
 ```
 
+##  localhost:5000 
+## Wep  Kamera ve İmage  Person detection
 <div align="center">
     <a href="./">
         <img src="./static/Capture.PNG" width="59%"/>
